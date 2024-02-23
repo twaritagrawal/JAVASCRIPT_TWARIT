@@ -5,3 +5,4 @@ accountId=455852
 console.table([accountId,accountName])
 console.log(typeof accountId)
 console.log(typeof null)
+const ch=123
